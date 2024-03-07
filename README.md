@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋 I'm R. Bharanidharan, a proactive and adaptable team player thriving in dynamic environments. Always eager to learn and grow, my effective time management, collaboration skills, and friendly approach make me an asset to any project. I excel at connecting with others, leveraging strong emotional and social intelligence for effective teamwork. Let's build great things together</h2>
+<h2 align="left">Hi👋 I'm R. Bharanidharan </h2>
 
 ###
 
@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  <a href="rharanidharan0612@gmail.com " target="_blank">
+  <a href="rbharanidharan0612@gmail.com " target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
